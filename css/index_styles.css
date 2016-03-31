@@ -51,11 +51,14 @@ img:hover {
 
 }
 
-.floating
+.floating{
+	position:absolute;
+	top:500px;
+	left:500px;
+}
 
-	{
-		position:absolute;
-		top:500px;
-		left:500px;
 
-	}
+
+
+
+

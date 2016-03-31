@@ -2,7 +2,7 @@
 	width: 600px;
 	height: 350px;
 	background-color: white;
-	position: absolute;
+	position: fixed;
 	margin: 150px auto 0 30%;
 	text-align: center;
 	border-radius: 10px;
@@ -39,3 +39,5 @@ a {
 	background-repeat: no-repeat;
 
 }
+
+
