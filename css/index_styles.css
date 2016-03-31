@@ -1,0 +1,53 @@
+a {
+	text-decoration: none;
+	color: grey;
+}
+
+a:link {
+    color: purple;
+}
+
+a:hover {
+    color: pink;
+    text-decoration:underline;
+}
+
+ul li {
+	decoration:none;
+}
+img:hover {
+	border: 1px;
+}
+
+.leftside {
+	float:left;
+}
+
+.rightside{
+	float:right;
+}
+
+.gray {
+	background:gray;
+}
+
+.orange {
+	background:orange;
+}
+
+.pink {
+	background:#e085c2;
+}
+
+.blue {
+	background:#9999e6;
+}
+
+.floating
+
+	{
+		position:absolute;
+		top:500px;
+		left:500px;
+
+	}
