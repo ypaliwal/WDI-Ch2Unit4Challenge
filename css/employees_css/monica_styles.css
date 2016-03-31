@@ -1,10 +1,12 @@
 body{
 	font-family:helvetica;
+	background-color: lightblue;
 }
 
 .container{}
 
 /*Navbar*/
+
 
 .Index{}
 
@@ -15,9 +17,11 @@ body{
 
 .media-body{
 	width:500px;
-	height:600px;
-	display:inline-block;
+	height:450px;
+	position:relative;
+	left:200px;
 	margin:50px;
+	background: #6DC2CD;
 }
 
 /*Monica Geller*/

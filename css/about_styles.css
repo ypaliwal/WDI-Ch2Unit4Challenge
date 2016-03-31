@@ -1,0 +1,53 @@
+body{
+	font-family:helvetica;
+	background: url("http://static.panoramio.com/photos/large/30577183.jpg");
+	background-size:cover;
+}
+
+.container{
+	width:100%;
+	height:100%;
+	padding:50px;
+}
+
+/*Navbar*/
+.nav{
+	border:1px black;
+	margin-left:auto;
+}
+
+.Content{
+	width:500px;
+	height:600px;
+	position:relative;
+	margin-left:250px;
+	color:white;
+}
+
+/*Page*/
+	/*titel*/
+h1{
+	text-align: center;
+	color:white;
+}
+
+div
+.subTitle{
+	font-size: 30;
+	text-decoration: underline;
+	font-weight: bold;
+	margin:70px 0px;
+}
+
+.subTitle .info{
+	display:inline block;
+	margin:20px;
+}
+
+.socialContainer{
+	width:300px;
+	height:600px;
+	float:right;
+	margin:50px;
+}
+
