@@ -1,0 +1,42 @@
+body {
+  font-family: Helvectica, sans-serif;
+  background-color: rgba(224,133,194,0.4);
+}
+
+h1 {
+  text-align: center;
+}
+
+.container_1 {
+  height: 180px;
+  width: 300px;
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 20px 25px;
+  border-radius: 9px;
+  margin: 0 auto;
+  position: relative;
+  top: 25px;
+}
+
+.container_2 {
+  width: 405px;
+  background-color: rgba(255, 255, 255, 0.80);
+  padding: 20px 25px;
+  border-radius: 9px;
+  margin: 0 auto;
+  position: relative;
+  top: 25px;
+}
+
+p {
+  text-align: center;
+}
+
+table {
+  height: 100px;
+  width: 250px;
+  background-color: rgba(255, 255, 255, 1);
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 9px;
+}
